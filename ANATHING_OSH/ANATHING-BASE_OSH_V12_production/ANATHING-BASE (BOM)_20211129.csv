@@ -1,0 +1,100 @@
+,,,,,,,,,,,
+"Components on Top Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"ICs",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"AD633JR","IC18-19","AD633JR",2,"SOIC-8","Analog Devices","AD633JRZ","SMD",,,16,0
+"LM339","IC24","LM339D",1,"SOIC-14","not important","LM339DR","SMD",,,14,0
+"74LVC245","IC33","74LVC245",1,"SOIC-20","not important","74LVC245AD","SMD",,,20,0
+"74HCT126","IC26","74HCT126",1,"SOIC-14","not important","74HCT126D","SMD",,,14,0
+"USB_PowerSwitch","IC30","BD2244G-M",1,"SSOP6","ROHM Semiconductor","BD2244G-MGTR","SMD",,,6,0
+"DG442","IC6-9, IC13-15, IC22, IC27-29","DG442",11,"SOIC-16","Vishay Siliconix","DG442DY-E3","SMD","DG212BDY-E3",,176,0
+"74HCT14","IC21, IC23","74HCT14",2,"SOIC-14","not important","74HCT14D","SMD",,,28,0
+"LM4040x","IC2","LM4040B-5.0V",1,"SOT23-3","Texas Instruments","LM4040BIM3-5.0","SMD",,,3,0
+"DC-DC_2W_DUAL","IC1","TBA2-0522",1,"SIP-7","TRACO Power","TBA2-0522","THT",,,0,7
+"OP_Quad_SOIC","IC3, IC5, IC10-12, IC16-17, IC20, IC25, IC31","TL074H",10,"SOIC-14","Texas Instruments","TL074HIDR","SMD",,,140,0
+,,,,,,,,,,,
+"Capacitors",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"C_SMD","C26, C28, C30, C32, C35","*1nF, PPS, 2%",5,"SMD 0805","Pansonic","ECHU1H102GX5","SMD","--",,10,0
+"C_SMD_1210","C27, C29, C31, C33-34, C50-51","*100nF, PPS 2%",7,"SMD 1210","Pansonic","ECHU1C104GX5","SMD","--",,14,0
+"C_SMD","C65, C67","1uF",2,"SMD 0805","not important","1uF, 50V, MLCC","SMD",,,4,0
+"SMD_Elko_2312","C2-5","47uF",4,"SMD 2312","not important","47uF, 16V, Tantal","SMD",,,8,0
+"C_SMD","C1, C6-25, C36-49, C52-64, C66","100nF",49,"SMD 0805","not important","100nF, 50V, MLCC","SMD",,,98,0
+,,,,,,,,,,,
+"Diodes",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"BAT54J","D15-17, D20-23","BAT54J",7,"SOD323-2","Nexperia","BAT54J,115","SMD",,,14,0
+"BAV199W","D19","BAV199W",1,"SOT23-3 / SC-70","Nexperia","BAV199W,115","SMD",,,3,0
+"BAS70-04_SOT23-3","D2-14","BAS70-04",13,"SOT23-3","Nexperia","BAS70-04,215","SMD",,,39,0
+"BZX84_SOT23-3","D1, D18","BZX84B5V1",2,"SOT23-3 / SC-70","Vishay Semiconductors","BZX84B5V1-E3-08","SMD",,,6,0
+,,,,,,,,,,,
+"Connectors",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"Chinch_RCA_KOBI","J6-10","RCA pcb mount black",5,"--","Kobiconn","156-0097-E","THT","or similar",,0,10
+"PinHead 2x5 Boxhead","J4-5","IDC boxed header (!)",2,"IDC, 2x5 pins,2.54mm, male 90°","Amphenol","T821110A1R100CEU","THT","or similar",,0,20
+"PinHead 2x25","J1-2","Pinhead 2x25",2,"Pinhead 2x25, 2.54mm, female, straight","MPE Garry","094-2-050-0-NSX-YS0","THT","or similar",,0,100
+"Switch-SR17A-8pos","J11-12","Rotary switch, 8 pos.",2,"Rotary switch, 8 pos.","Alpha (Taiwan)","SR1712F-0108-20F0A-N9-N-027","THT","or similar",,0,20
+"Grove Header 4 pins","J13","Grove Header 4 pins",1,"Grove Header, 4 pins, 2.0mm, male 90°","Seeed",110990037,"THT","or similar",,0,4
+"PinHead 2x8 Boxhead","J20","IDC boxed header (!)",1,"IDC, 2x8 pins, male, 90°","Amphenol","T821116A1R100CEU","THT","or similar",,0,16
+"USB-C_Power_6pin","J19","USB C Power",1,"USB-C power connector, 6 pin female, SMD","Molex",2171750001,"SMD","or similar",,6,0
+,,,,,,,,,,,
+"Resistors",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"R_SMD","R47, R50, R53, R56, R58, R60, R62, R64, R97, R99, R123, R126, R128, R130, R132-133, R136, R138","*1M",18,"SMD 0805","not important","1M, 0.1% (high precision)","SMD",,,36,0
+"R_SMD","R31-32, R34-35, R37-38, R40-41, R43-44, R69-72, R75-78, R98","*10k",19,"SMD 0805","not important","10k, 0.1% (high precision)","SMD",,,38,0
+"R_SMD","R8-11, R74, R80, R124-125, R127, R129, R131, R134-135, R137","*100k",14,"SMD 0805","not important","100k, 0.1% (high precision)","SMD",,,28,0
+"R_SMD","R73, R79","*300k",2,"SMD 0805","not important","300k, 0.1% (high precision)","SMD",,,4,0
+"R_SMD","R149","1k",1,"SMD 0805","not important","1k, 1%","SMD",,,2,0
+"R_SMD","R108-109, R116-117","4k22",4,"SMD 0805","not important","4k22, 1%","SMD",,,8,0
+"R_TRIM_hor","R14","5k",1,"6.3mm diameter, max height 10mm","Amphenol/Piher","5k, 20%, single turn 5.0/2.5 mm","THT","or similar",,0,3
+"R_SMD","R30, R33, R36, R39, R42, R45, R48, R51, R54, R57, R59, R61, R63, R89-90, R110-111, R113, R115, R120, R139, R141, R147-148, R150","5k1",25,"SMD 0805","not important","5k1, 1%","SMD",,,50,0
+"R_SMD","R2-3, R5-6, R25","8R2",5,"SMD 0805","not important","8R2, 1%","SMD",,,10,0
+"R_SMD","R7, R13, R27, R46, R49, R52, R55, R92, R104, R144, R146","10k",11,"SMD 0805","not important","10k, 1%","SMD",,,22,0
+"R_SMD","R15, R93","15k",2,"SMD 0805","not important","15k, 1%","SMD",,,4,0
+"R_SMD","R145","27R",1,"SMD 0805","not important","27R, 1%","SMD",,,2,0
+"R_SMD","R24, R102","33k",2,"SMD 0805","not important","33k, 1%","SMD",,,4,0
+"R_SMD","R91, R96, R103","68k",3,"SMD 0805","not important","68k, 1%","SMD",,,6,0
+"PAN_ResArr8x_EXBA10P","R26, R28","100k, 5%",2,"resistor array 2x5 pins, 1.27mm pitch","Pansonic","EXBA10P104J","SMD",,,20,0
+"R_SMD","R1, R12, R29, R65-68, R83, R86-88, R94-95, R105, R112, R114, R122, R140, R142-143","100k",20,"SMD 0805","not important","100k, 1%","SMD",,,40,0
+"R_TRIM_PTV09A","R16-23","100k, linear",8,"THT","Bourns","PTV09A-4025U-B104","THT","or similar",,0,40
+"R_TRIM_PTV09A","R100","20k, logarithmic/Audio",1,"THT","Bourns","PTV09A-4025U-A203","THT","or similar",,0,5
+"R_SMD","R82, R85, R101, R106-107, R118-119","470R",7,"SMD 0805","not important","470R, 1%","SMD",,,14,0
+"R_SMD","R81, R84, R121","510k",3,"SMD 0805","not important","510k, 1%","SMD",,,6,0
+"RT_PTC_SMD1206_small","R4","PPTC fuse, 500mA",1,"SMD 1206","Bel Fuse","0ZCJ0050FF2G","SMD","or similar",,2,0
+,,,,,,,,,,,
+"Others",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"L_SMD_1812ext","L1","4u7, 75mR",1,"SMD 1812","Murata","LQH43PN4R7M26L","SMD","or similar",,2,0
+"L_SMD_1812ext","L2-3","33uH, 550mR",2,"SMD 1812","Taiyo Yuden","CBC3225T330KR","SMD","or similar",,4,0
+"BC848B","T4","BC848B",1,"SOT23-3","Nexperia","BC848B,215","SMD","or similar",,3,0
+"BC858B","T2, T6","BC858B",2,"SOT23-3","Nexperia","BC858B,215","SMD","or similar",,6,0
+"PMV250EP","T1, T5","PMV250EP",2,"SOT23-3","Nexperia","PMV250EPEAR","SMD",,,6,0
+"PMV450EN","T3","PMV450EN",1,"SOT23-3","Nexperia","PMV450ENEAR","SMD",,,3,0
+,,,,,,,,,,,
+"Totals for Top Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,"Quantity",,,,,,,"SMD Pads","THT Pads"
+,,,294,,,,,,,939,225
+,,,,,,,,,,,
+"Components on Bottom Side",,,,,,,,"Different parts",,44,9
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Totals for Bottom Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,"Quantity",,,,,,,,
+,,,0,,,,,,,,
+,,,,,,,,,,,
+"Grand Totals",,,,,,,,,,,
+,,,,,,,,,,,
+,,,"Quantity",,,,,,,,
+,,,294,,,,,,,,

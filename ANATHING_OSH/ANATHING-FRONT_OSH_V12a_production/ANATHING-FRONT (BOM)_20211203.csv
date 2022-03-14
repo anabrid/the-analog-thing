@@ -1,0 +1,51 @@
+,,,,,,,,,,,
+"Components on Top Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Totals for Top Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,"Quantity",,,,,,,,
+,,,0,,,,,,,,
+,,,,,,,,,,,
+"Components on Bottom Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+"Capacitors",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"C_SMD","C4-5","100nF",2,"SMD 0805","not important","100nF, 50V, MLCC","SMD",,,4,0
+"C_SMD","C1-3","100pF",3,"SMD 0805","not important","100pF, 50V, MLCC","SMD",,,6,0
+,,,,,,,,,,,
+"Diodes",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"DIODE_SOD323","D100-103","BAS170W",4,"SOD323","Infineon","BAS170W","SMD",,,8,0
+"DiodeZ_SOD123","D104-105","BZT52H-C10",2,"SOD123","Nexperia","BZT52H-C10,115","SMD",,,4,0
+"LED_SMD_INS","D106","IN-S124BRG",1,"SMD 1204","Inolux","IN-S124BRG","SMD","(green)",,2,0
+"LED_SMD_INS","D108","IN-S124BRR",1,"SMD 1204","Inolux","IN-S124BRR","SMD","(red)",,2,0
+"LED_SMD_INS","D107","IN-S124BRY",1,"SMD 1204","Inolux","IN-S124BRY","SMD","(yellow)",,2,0
+"ESD_SOT23D","D1-62, D64, D66-75, D77, D79-99, D109-110","VCAN16A2",97,"SOT23-3","Vishay Semiconductors","VCAN16A2-03S-E3-08","SMD",,,291,0
+,,,,,,,,,,,
+"Connectors",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"PinHead 2x25_SMD_prod","J1-2","SMD Pinhead 2x25",2,"Pinhead 2x25, 2.54mm, male, straight","MPE Garry","090-3-050-0-F-XR0-0910","SMD","or similar",,100,0
+,,,,,,,,,,,
+"Resistors",,,,,,,,,,,
+,,,,,,,,,,,
+"Component","Names","Value","Quantity","Case","Manufacturer","Detail (Ordering Inf.)","Type (SMD/THT)","alternative Part",,"SMD Pads","THT Pads"
+"R_SMD","R72-74","1k",3,"SMD 0805","not important","1k, 1%",,,,6,0
+"R_SMD","R1-3, R6-8, R11-13, R16-18, R21-23, R26-29, R33-36, R40-43, R47-50, R54-57, R64-66, R69-71","1M",41,"SMD 0805","not important","1M, 0.1% (high precision)",,,,82,0
+"R_SMD","R4-5, R9-10, R14-15, R19-20, R24-25, R30-32, R37-39, R44-46, R51-53, R58-63, R67-68","100k",30,"SMD 0805","not important","100k, 0.1% (high precision)",,,,60,0
+,,,,,,,,,,,
+"Totals for Bottom Side",,,,,,,,,,,
+,,,,,,,,,,,
+,,,"Quantity",,,,,,,"SMD Pads","THT Pads"
+,,,187,,,,,,,567,0
+,,,,,,,,,,,
+"Grand Totals",,,,,,,,"Different parts",,12,0
+,,,,,,,,,,,
+,,,"Quantity",,,,,,,,
+,,,187,,,,,,,,
